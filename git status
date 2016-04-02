@@ -1,0 +1,41 @@
+* [33mcommit 6d1d752efdee2ec1e71288745863221d110add48[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: theCastor <junior.castor@gmail.com>
+[31m|[m Date:   Fri Apr 1 14:34:48 2016 -0300
+[31m|[m 
+[31m|[m     commit o arquivo f.txt no branch master
+[31m|[m    
+[31m|[m * [33mcommit eab75a899ee04bfcc860a33fd6c5478f754159bc[m[33m ([m[1;32mfeature2[m[33m)[m
+[31m|[m[31m/[m  Author: theCastor <junior.castor@gmail.com>
+[31m|[m   Date:   Fri Apr 1 14:32:33 2016 -0300
+[31m|[m   
+[31m|[m       primeiro commit no branch feature2
+[31m|[m  
+* [33mcommit e7bfa42b3ad61acd80933075b7eb8519a7015b07[m
+[32m|[m Author: theCastor <junior.castor@gmail.com>
+[32m|[m Date:   Fri Apr 1 14:17:21 2016 -0300
+[32m|[m 
+[32m|[m     primeiro commit no branch feature1
+[32m|[m  
+* [33mcommit bd025ceee174aa6e05a6e888eb2fbeebf18a6b9d[m
+[32m|[m Author: theCastor <junior.castor@gmail.com>
+[32m|[m Date:   Fri Apr 1 08:42:27 2016 -0300
+[32m|[m 
+[32m|[m     quarto commit - arquivo c renomeado para c2
+[32m|[m  
+* [33mcommit 0fc5322a982bbf2d72ebd9f5b9e69bdfc1e84a8b[m
+[32m|[m Author: theCastor <junior.castor@gmail.com>
+[32m|[m Date:   Fri Apr 1 08:38:17 2016 -0300
+[32m|[m 
+[32m|[m     terceiro commit - arquivo c alterado
+[32m|[m  
+* [33mcommit 5ba6d8f61e3cd074769a8495b69bd65749fdab94[m
+[32m|[m Author: theCastor <junior.castor@gmail.com>
+[32m|[m Date:   Fri Apr 1 08:34:24 2016 -0300
+[32m|[m 
+[32m|[m     segundo commit - envio do arquivo c
+[32m|[m  
+* [33mcommit 116d0fd67b7c711e454837a49be6788fb30551d8[m
+  Author: theCastor <junior.castor@gmail.com>
+  Date:   Fri Apr 1 08:12:33 2016 -0300
+  
+      primeiro commit do repositório
